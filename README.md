@@ -4,7 +4,7 @@ The individual themes may differ slightly.
 
 Loose reference for colors:
 
-[rainbow colors](rainbow_dash.png)
+![rainbow colors](rainbow_dash.png)
 
 | Editor | File
 |:------ |:----
