@@ -8,5 +8,6 @@ Loose reference for colors:
 
 | Editor | File
 |:------ |:----
+| Vim | dash.vim
 | Sublime Text | Dash.tmTheme
 | IDEA | Dash.icls
